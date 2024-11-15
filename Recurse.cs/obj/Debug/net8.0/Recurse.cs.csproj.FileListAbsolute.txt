@@ -1,0 +1,14 @@
+C:\Users\Jonah\source\repos\Recurse.cs\bin\Debug\net8.0\Recurse.cs.exe
+C:\Users\Jonah\source\repos\Recurse.cs\bin\Debug\net8.0\Recurse.cs.deps.json
+C:\Users\Jonah\source\repos\Recurse.cs\bin\Debug\net8.0\Recurse.cs.runtimeconfig.json
+C:\Users\Jonah\source\repos\Recurse.cs\bin\Debug\net8.0\Recurse.cs.dll
+C:\Users\Jonah\source\repos\Recurse.cs\bin\Debug\net8.0\Recurse.cs.pdb
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\Recurse.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\Recurse.cs.AssemblyInfoInputs.cache
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\Recurse.cs.AssemblyInfo.cs
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\Recurse.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\Recurse.cs.dll
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\refint\Recurse.cs.dll
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\Recurse.cs.pdb
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\Recurse.cs.genruntimeconfig.cache
+C:\Users\Jonah\source\repos\Recurse.cs\obj\Debug\net8.0\ref\Recurse.cs.dll
