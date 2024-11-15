@@ -1,0 +1,14 @@
+C:\Users\Jonah\source\repos\FileLineNumberAdder\bin\Debug\net8.0\FileLineNumberAdder.exe
+C:\Users\Jonah\source\repos\FileLineNumberAdder\bin\Debug\net8.0\FileLineNumberAdder.deps.json
+C:\Users\Jonah\source\repos\FileLineNumberAdder\bin\Debug\net8.0\FileLineNumberAdder.runtimeconfig.json
+C:\Users\Jonah\source\repos\FileLineNumberAdder\bin\Debug\net8.0\FileLineNumberAdder.dll
+C:\Users\Jonah\source\repos\FileLineNumberAdder\bin\Debug\net8.0\FileLineNumberAdder.pdb
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\FileLineNumberAdder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\FileLineNumberAdder.AssemblyInfoInputs.cache
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\FileLineNumberAdder.AssemblyInfo.cs
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\FileLineNumberAdder.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\FileLineNumberAdder.dll
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\refint\FileLineNumberAdder.dll
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\FileLineNumberAdder.pdb
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\FileLineNumberAdder.genruntimeconfig.cache
+C:\Users\Jonah\source\repos\FileLineNumberAdder\obj\Debug\net8.0\ref\FileLineNumberAdder.dll

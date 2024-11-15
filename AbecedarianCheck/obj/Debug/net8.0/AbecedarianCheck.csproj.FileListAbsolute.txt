@@ -1,0 +1,14 @@
+C:\Users\Jonah\source\repos\AbecedarianCheck\bin\Debug\net8.0\AbecedarianCheck.exe
+C:\Users\Jonah\source\repos\AbecedarianCheck\bin\Debug\net8.0\AbecedarianCheck.deps.json
+C:\Users\Jonah\source\repos\AbecedarianCheck\bin\Debug\net8.0\AbecedarianCheck.runtimeconfig.json
+C:\Users\Jonah\source\repos\AbecedarianCheck\bin\Debug\net8.0\AbecedarianCheck.dll
+C:\Users\Jonah\source\repos\AbecedarianCheck\bin\Debug\net8.0\AbecedarianCheck.pdb
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\AbecedarianCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\AbecedarianCheck.AssemblyInfoInputs.cache
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\AbecedarianCheck.AssemblyInfo.cs
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\AbecedarianCheck.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\AbecedarianCheck.dll
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\refint\AbecedarianCheck.dll
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\AbecedarianCheck.pdb
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\AbecedarianCheck.genruntimeconfig.cache
+C:\Users\Jonah\source\repos\AbecedarianCheck\obj\Debug\net8.0\ref\AbecedarianCheck.dll
